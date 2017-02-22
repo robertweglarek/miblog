@@ -3,3 +3,6 @@
 
 # Your app in editable mode.
 -e ../
+
+django-cms<3.5
+djangocms-text-ckeditor<3.5
